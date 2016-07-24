@@ -1,0 +1,25 @@
+.idea
+
+# compiled output
+dist
+tmp
+
+# dependencies
+node_modules
+bower_components
+
+# misc
+.sass-cache
+connect.lock
+coverage/*
+libpeerconnection.log
+npm-debug.log
+testem.log
+typings
+.vscode
+jsconfig.json
+
+report.tap
+config/local.json
+.DS_Store
+docs/
